@@ -177,7 +177,7 @@ p {
 }
 .skills .box h4 {
     text-transform: uppercase;
-    color: #333;
+    color: #fff;
     font-weight: 900;
 }
 .skills .box .percent {
@@ -191,7 +191,7 @@ p {
     top: 0;
     left: 0;
     height: 100%;
-    background: #003147;
+    background: #fff;
     /*background: #03a9f4;*/
 }
 
